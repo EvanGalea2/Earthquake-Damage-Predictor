@@ -4,12 +4,16 @@ This project uses a variety of Machine Learning models to predict damage to buil
 
 
 
-Reccommended viewing:
+## Reccommended viewing:
 
 DataExploration: info about dataset and brief analysis
+
 Silvia - Data exploration and vizualization: In depth statistics and analysis
+
 DTree_(260415_V001): Exploration of tree algorithms with feature engineering and PCA
+
 RandomForest_Virginia: Catboost classifier and confusion matrix
+
 RandomForest.ipynb performs grid search on tree based classifiers. It contains the most successful model, as well as submission data
 
 
