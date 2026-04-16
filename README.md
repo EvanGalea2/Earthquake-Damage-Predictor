@@ -13,7 +13,7 @@ RandomForest_Virginia: Catboost classifier and confusion matrix
 RandomForest.ipynb performs grid search on tree based classifiers. It contains the most successful model, as well as submission data
 
 
-\# Results
+# Results
 
 Our solution places us 1146th out of 8722 contestants (just outside top 13%) with a score of 0.7405
 
@@ -21,3 +21,5 @@ Our solution places us 1146th out of 8722 contestants (just outside top 13%) wit
 
 
 
+# License:
+GNU GPLv3
